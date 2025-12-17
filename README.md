@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 👻 Ghost Screen Pet
 Merhaba, ben Elif Su İbiş.
 Son zamanlarda İngilizcesi 'screen pet' olan, ekranı süsleyen, küçük karakterler oldukça popüler.
